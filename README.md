@@ -30,5 +30,7 @@ pag: Pagar o pedido.
 
 *Exemplos de palavras aceitas e rejeitadas:
 pcxsssmmxxxpag -> aceita
+
 pcgsxtbdpag -> aceita
+
 xxgssxxxxpag -> rejeita
