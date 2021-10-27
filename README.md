@@ -1,6 +1,6 @@
 # automato-sandubway
 Trabalho Final da Disciplina de Linguagens Formais e Autômatos.
-Realizado por Aline Osmar, Lucas de Lima E Pedro Fronchetti
+Realizado por Aline Osmar, Lucas Lima E Pedro Fronchetti
 
 *Ferramentas: Linguagem C.
 
