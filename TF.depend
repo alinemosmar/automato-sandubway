@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1605724902 source:c:\users\alili\dropbox\estudos\formais\tf\gramatica.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"gramatica.h"
+
+1605725079 c:\users\alili\dropbox\estudos\formais\tf\gramatica.h
+
+1605725579 source:c:\users\alili\dropbox\estudos\formais\tf\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<fcntl.h>
+	"gramatica.h"
+
